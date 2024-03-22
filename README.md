@@ -2,6 +2,8 @@
 
 This is a simple clone palindrome checker that determines if a given word or phrase is a palindrome.
 
+![project preview](/resources/images/project_look.png)
+
 ## Usage
 
 To use the palindrome checker, simply enter a word or phrase into the input field and click the "Check" button. The checker will then determine if the input is a palindrome and display the result.
